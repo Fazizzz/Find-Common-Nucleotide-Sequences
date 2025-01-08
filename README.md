@@ -20,8 +20,8 @@ _______________________________________________________
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
+git clone https://github.com/Fazizzz/Find-Common-Nucleotide-Sequences.git
+cd Find-Common-Nucleotide-Sequences
 ```
 ________________________________________________________
 ## Requirements
